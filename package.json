@@ -1,0 +1,24 @@
+{
+  "name": "a2zfindex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "truffle-plugin-verify": "^0.5.25"
+  },
+  "keywords": [],
+  "description": ""
+}
